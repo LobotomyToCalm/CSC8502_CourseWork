@@ -1,2 +1,2 @@
-# CSC8502_Practice
+# CSC8502_CourseWork
 Newcastle University MSc Computer Game Engineering
