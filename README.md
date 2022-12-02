@@ -1,2 +1,2 @@
-# CSC8502_CourseWork
-Newcastle University MSc Computer Game Engineering
+# OpenGL Island
+Based on C++ and OpenGL
