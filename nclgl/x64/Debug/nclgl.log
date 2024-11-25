@@ -1,1 +1,69 @@
-﻿  nclgl.vcxproj -> D:\CodeProject\CSC8502_Deckard\ShiluZhao_CSC8502_CourseWork\x64\Debug\nclgl.lib
+﻿  glad.c
+  ComputeShader.cpp
+C:\Users\decka\Projects\OpenGL_Island\nclgl\Keyboard.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“ComputeShader.cpp”)
+  
+  CubeRobot.cpp
+C:\Users\decka\Projects\OpenGL_Island\nclgl\Keyboard.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“CubeRobot.cpp”)
+  
+  Frustum.cpp
+C:\Users\decka\Projects\OpenGL_Island\nclgl\Keyboard.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“Frustum.cpp”)
+  
+  GameTimer.cpp
+  HeightMap.cpp
+C:\Users\decka\Projects\OpenGL_Island\nclgl\Keyboard.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“HeightMap.cpp”)
+  
+C:\Users\decka\Projects\OpenGL_Island\nclgl\HeightMap.cpp(23,48): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+C:\Users\decka\Projects\OpenGL_Island\nclgl\HeightMap.cpp(23,31): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+C:\Users\decka\Projects\OpenGL_Island\nclgl\HeightMap.cpp(66,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\decka\Projects\OpenGL_Island\nclgl\HeightMap.cpp(71,20): warning C4018: “<”: 有符号/无符号不匹配
+  Keyboard.cpp
+C:\Users\decka\Projects\OpenGL_Island\nclgl\Keyboard.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“Keyboard.cpp”)
+  
+  Matrix2.cpp
+  Matrix3.cpp
+  Matrix4.cpp
+  Mesh.cpp
+C:\Users\decka\Projects\OpenGL_Island\nclgl\Keyboard.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“Mesh.cpp”)
+  
+C:\Users\decka\Projects\OpenGL_Island\nclgl\Mesh.cpp(601,20): warning C4018: “<”: 有符号/无符号不匹配
+  MeshAnimation.cpp
+  MeshMaterial.cpp
+  Mouse.cpp
+  OGLRenderer.cpp
+C:\Users\decka\Projects\OpenGL_Island\nclgl\Keyboard.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“OGLRenderer.cpp”)
+  
+  Plane.cpp
+  Quaternion.cpp
+  SceneNode.cpp
+C:\Users\decka\Projects\OpenGL_Island\nclgl\Keyboard.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“SceneNode.cpp”)
+  
+  Shader.cpp
+C:\Users\decka\Projects\OpenGL_Island\nclgl\Keyboard.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“Shader.cpp”)
+  
+  WaterMesh.cpp
+C:\Users\decka\Projects\OpenGL_Island\nclgl\Keyboard.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“WaterMesh.cpp”)
+  
+C:\Users\decka\Projects\OpenGL_Island\nclgl\WaterMesh.cpp(5,78): warning C4244: “=”: 从“float”转换到“GLuint”，可能丢失数据
+C:\Users\decka\Projects\OpenGL_Island\nclgl\WaterMesh.cpp(35,20): warning C4018: “<”: 有符号/无符号不匹配
+  Window.cpp
+C:\Users\decka\Projects\OpenGL_Island\nclgl\Keyboard.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“Window.cpp”)
+  
+  正在生成代码...
+  正在编译...
+  Camera.cpp
+C:\Users\decka\Projects\OpenGL_Island\nclgl\Keyboard.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“Camera.cpp”)
+  
+  正在生成代码...
+  nclgl.vcxproj -> C:\Users\decka\Projects\OpenGL_Island\x64\Debug\nclgl.lib

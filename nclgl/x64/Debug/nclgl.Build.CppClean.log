@@ -1,31 +1,60 @@
-d:\codeproject\csc8502_deckard\csc8502 2021\nclgl\x64\debug\nclgl.pdb
-d:\codeproject\csc8502_deckard\csc8502 2021\nclgl\x64\debug\nclgl.idb
-d:\codeproject\csc8502_deckard\csc8502 2021\nclgl\x64\debug\glad.obj
-d:\codeproject\csc8502_deckard\csc8502 2021\nclgl\x64\debug\camera.obj
-d:\codeproject\csc8502_deckard\csc8502 2021\nclgl\x64\debug\window.obj
-d:\codeproject\csc8502_deckard\csc8502 2021\nclgl\x64\debug\shader.obj
-d:\codeproject\csc8502_deckard\csc8502 2021\nclgl\x64\debug\scenenode.obj
-d:\codeproject\csc8502_deckard\csc8502 2021\nclgl\x64\debug\quaternion.obj
-d:\codeproject\csc8502_deckard\csc8502 2021\nclgl\x64\debug\plane.obj
-d:\codeproject\csc8502_deckard\csc8502 2021\nclgl\x64\debug\oglrenderer.obj
-d:\codeproject\csc8502_deckard\csc8502 2021\nclgl\x64\debug\mouse.obj
-d:\codeproject\csc8502_deckard\csc8502 2021\nclgl\x64\debug\meshmaterial.obj
-d:\codeproject\csc8502_deckard\csc8502 2021\nclgl\x64\debug\meshanimation.obj
-d:\codeproject\csc8502_deckard\csc8502 2021\nclgl\x64\debug\mesh.obj
-d:\codeproject\csc8502_deckard\csc8502 2021\nclgl\x64\debug\matrix4.obj
-d:\codeproject\csc8502_deckard\csc8502 2021\nclgl\x64\debug\matrix3.obj
-d:\codeproject\csc8502_deckard\csc8502 2021\nclgl\x64\debug\matrix2.obj
-d:\codeproject\csc8502_deckard\csc8502 2021\nclgl\x64\debug\keyboard.obj
-d:\codeproject\csc8502_deckard\csc8502 2021\nclgl\x64\debug\heightmap.obj
-d:\codeproject\csc8502_deckard\csc8502 2021\nclgl\x64\debug\gametimer.obj
-d:\codeproject\csc8502_deckard\csc8502 2021\nclgl\x64\debug\frustum.obj
-d:\codeproject\csc8502_deckard\csc8502 2021\nclgl\x64\debug\cuberobot.obj
-d:\codeproject\csc8502_deckard\csc8502 2021\nclgl\x64\debug\computeshader.obj
-d:\codeproject\csc8502_deckard\csc8502 2021\x64\debug\nclgl.lib
-d:\codeproject\csc8502_deckard\csc8502 2021\x64\debug\nclgl.pdb
-d:\codeproject\csc8502_deckard\csc8502 2021\nclgl\x64\debug\nclgl.tlog\cl.command.1.tlog
-d:\codeproject\csc8502_deckard\csc8502 2021\nclgl\x64\debug\nclgl.tlog\cl.read.1.tlog
-d:\codeproject\csc8502_deckard\csc8502 2021\nclgl\x64\debug\nclgl.tlog\cl.write.1.tlog
-d:\codeproject\csc8502_deckard\csc8502 2021\nclgl\x64\debug\nclgl.tlog\lib-link.read.1.tlog
-d:\codeproject\csc8502_deckard\csc8502 2021\nclgl\x64\debug\nclgl.tlog\lib-link.write.1.tlog
-d:\codeproject\csc8502_deckard\csc8502 2021\nclgl\x64\debug\nclgl.tlog\lib.command.1.tlog
+d:\codeproject\csc8502_deckard\shiluzhao_csc8502_coursework\nclgl\x64\debug\nclgl.pdb
+d:\codeproject\csc8502_deckard\shiluzhao_csc8502_coursework\nclgl\x64\debug\nclgl.idb
+d:\codeproject\csc8502_deckard\shiluzhao_csc8502_coursework\nclgl\x64\debug\glad.obj
+d:\codeproject\csc8502_deckard\shiluzhao_csc8502_coursework\nclgl\x64\debug\window.obj
+d:\codeproject\csc8502_deckard\shiluzhao_csc8502_coursework\nclgl\x64\debug\watermesh.obj
+d:\codeproject\csc8502_deckard\shiluzhao_csc8502_coursework\nclgl\x64\debug\shader.obj
+d:\codeproject\csc8502_deckard\shiluzhao_csc8502_coursework\nclgl\x64\debug\scenenode.obj
+d:\codeproject\csc8502_deckard\shiluzhao_csc8502_coursework\nclgl\x64\debug\quaternion.obj
+d:\codeproject\csc8502_deckard\shiluzhao_csc8502_coursework\nclgl\x64\debug\plane.obj
+d:\codeproject\csc8502_deckard\shiluzhao_csc8502_coursework\nclgl\x64\debug\oglrenderer.obj
+d:\codeproject\csc8502_deckard\shiluzhao_csc8502_coursework\nclgl\x64\debug\mouse.obj
+d:\codeproject\csc8502_deckard\shiluzhao_csc8502_coursework\nclgl\x64\debug\meshmaterial.obj
+d:\codeproject\csc8502_deckard\shiluzhao_csc8502_coursework\nclgl\x64\debug\meshanimation.obj
+d:\codeproject\csc8502_deckard\shiluzhao_csc8502_coursework\nclgl\x64\debug\mesh.obj
+d:\codeproject\csc8502_deckard\shiluzhao_csc8502_coursework\nclgl\x64\debug\matrix4.obj
+d:\codeproject\csc8502_deckard\shiluzhao_csc8502_coursework\nclgl\x64\debug\matrix3.obj
+d:\codeproject\csc8502_deckard\shiluzhao_csc8502_coursework\nclgl\x64\debug\matrix2.obj
+d:\codeproject\csc8502_deckard\shiluzhao_csc8502_coursework\nclgl\x64\debug\keyboard.obj
+d:\codeproject\csc8502_deckard\shiluzhao_csc8502_coursework\nclgl\x64\debug\heightmap.obj
+d:\codeproject\csc8502_deckard\shiluzhao_csc8502_coursework\nclgl\x64\debug\gametimer.obj
+d:\codeproject\csc8502_deckard\shiluzhao_csc8502_coursework\nclgl\x64\debug\frustum.obj
+d:\codeproject\csc8502_deckard\shiluzhao_csc8502_coursework\nclgl\x64\debug\cuberobot.obj
+d:\codeproject\csc8502_deckard\shiluzhao_csc8502_coursework\nclgl\x64\debug\computeshader.obj
+d:\codeproject\csc8502_deckard\shiluzhao_csc8502_coursework\nclgl\x64\debug\camera.obj
+d:\codeproject\csc8502_deckard\shiluzhao_csc8502_coursework\x64\debug\nclgl.lib
+c:\users\decka\projects\opengl_island\nclgl\x64\debug\camera.obj
+c:\users\decka\projects\opengl_island\nclgl\x64\debug\computeshader.obj
+c:\users\decka\projects\opengl_island\nclgl\x64\debug\cuberobot.obj
+c:\users\decka\projects\opengl_island\nclgl\x64\debug\frustum.obj
+c:\users\decka\projects\opengl_island\nclgl\x64\debug\gametimer.obj
+c:\users\decka\projects\opengl_island\nclgl\x64\debug\glad.obj
+c:\users\decka\projects\opengl_island\nclgl\x64\debug\heightmap.obj
+c:\users\decka\projects\opengl_island\nclgl\x64\debug\keyboard.obj
+c:\users\decka\projects\opengl_island\nclgl\x64\debug\matrix2.obj
+c:\users\decka\projects\opengl_island\nclgl\x64\debug\matrix3.obj
+c:\users\decka\projects\opengl_island\nclgl\x64\debug\matrix4.obj
+c:\users\decka\projects\opengl_island\nclgl\x64\debug\mesh.obj
+c:\users\decka\projects\opengl_island\nclgl\x64\debug\meshanimation.obj
+c:\users\decka\projects\opengl_island\nclgl\x64\debug\meshmaterial.obj
+c:\users\decka\projects\opengl_island\nclgl\x64\debug\mouse.obj
+c:\users\decka\projects\opengl_island\nclgl\x64\debug\oglrenderer.obj
+c:\users\decka\projects\opengl_island\nclgl\x64\debug\plane.obj
+c:\users\decka\projects\opengl_island\nclgl\x64\debug\quaternion.obj
+c:\users\decka\projects\opengl_island\nclgl\x64\debug\scenenode.obj
+c:\users\decka\projects\opengl_island\nclgl\x64\debug\shader.obj
+c:\users\decka\projects\opengl_island\nclgl\x64\debug\watermesh.obj
+c:\users\decka\projects\opengl_island\nclgl\x64\debug\window.obj
+c:\users\decka\projects\opengl_island\nclgl\x64\debug\heightmap.obj.enc
+c:\users\decka\projects\opengl_island\nclgl\x64\debug\watermesh.obj.enc
+c:\users\decka\projects\opengl_island\nclgl\x64\debug\nclgl.idb
+c:\users\decka\projects\opengl_island\nclgl\x64\debug\nclgl.pdb
+c:\users\decka\projects\opengl_island\x64\debug\nclgl.pdb
+c:\users\decka\projects\opengl_island\x64\debug\nclgl.lib
+c:\users\decka\projects\opengl_island\nclgl\x64\debug\nclgl.tlog\cl.command.1.tlog
+c:\users\decka\projects\opengl_island\nclgl\x64\debug\nclgl.tlog\cl.items.tlog
+c:\users\decka\projects\opengl_island\nclgl\x64\debug\nclgl.tlog\cl.read.1.tlog
+c:\users\decka\projects\opengl_island\nclgl\x64\debug\nclgl.tlog\cl.write.1.tlog
+c:\users\decka\projects\opengl_island\nclgl\x64\debug\nclgl.tlog\lib-link.read.1.tlog
+c:\users\decka\projects\opengl_island\nclgl\x64\debug\nclgl.tlog\lib-link.write.1.tlog
+c:\users\decka\projects\opengl_island\nclgl\x64\debug\nclgl.tlog\lib.command.1.tlog

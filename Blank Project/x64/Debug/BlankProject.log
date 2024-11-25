@@ -1,12 +1,52 @@
-﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(519,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(Blank Project.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+﻿C:\Users\decka\Softwares\VisualStudio\2022\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(Blank Project.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  CourseWork.cpp
+C:\Users\decka\Projects\OpenGL_Island\NCLGL\Keyboard.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“CourseWork.cpp”)
+  
+C:\Users\decka\Projects\OpenGL_Island\Blank Project\Renderer.h(5,10): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+  (编译源文件“CourseWork.cpp”)
+  
+  DefferedRendering.cpp
+C:\Users\decka\Projects\OpenGL_Island\nclgl\Keyboard.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“DefferedRendering.cpp”)
+  
+C:\Users\decka\Projects\OpenGL_Island\Blank Project\Renderer.h(5,10): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+  (编译源文件“DefferedRendering.cpp”)
+  
+C:\Users\decka\Projects\OpenGL_Island\Blank Project\DefferedRendering.cpp(22,71): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+C:\Users\decka\Projects\OpenGL_Island\Blank Project\DefferedRendering.cpp(22,32): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+C:\Users\decka\Projects\OpenGL_Island\Blank Project\DefferedRendering.cpp(24,36): warning C4305: “参数”: 从“double”到“float”截断
+C:\Users\decka\Projects\OpenGL_Island\Blank Project\DefferedRendering.cpp(24,29): warning C4305: “参数”: 从“double”到“float”截断
+C:\Users\decka\Projects\OpenGL_Island\Blank Project\DefferedRendering.cpp(24,23): warning C4305: “参数”: 从“double”到“float”截断
+  PostProcessing.cpp
+C:\Users\decka\Projects\OpenGL_Island\nclgl\Keyboard.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“PostProcessing.cpp”)
+  
+C:\Users\decka\Projects\OpenGL_Island\Blank Project\Renderer.h(5,10): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+  (编译源文件“PostProcessing.cpp”)
+  
   Renderer.cpp
-D:\CodeProject\CSC8502_Deckard\ShiluZhao_CSC8502_CourseWork\nclgl\Keyboard.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
-D:\CodeProject\CSC8502_Deckard\ShiluZhao_CSC8502_CourseWork\Blank Project\Renderer.h(5,10): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
-D:\CodeProject\CSC8502_Deckard\ShiluZhao_CSC8502_CourseWork\Blank Project\Renderer.cpp(24,19): warning C4305: “=”: 从“double”到“float”截断
-D:\CodeProject\CSC8502_Deckard\ShiluZhao_CSC8502_CourseWork\Blank Project\Renderer.cpp(27,23): warning C4305: “=”: 从“double”到“float”截断
-D:\CodeProject\CSC8502_Deckard\ShiluZhao_CSC8502_CourseWork\Blank Project\Renderer.cpp(47,34): warning C4305: “参数”: 从“double”到“float”截断
-D:\CodeProject\CSC8502_Deckard\ShiluZhao_CSC8502_CourseWork\Blank Project\Renderer.cpp(125,19): warning C4305: “+=”: 从“double”到“float”截断
-D:\CodeProject\CSC8502_Deckard\ShiluZhao_CSC8502_CourseWork\Blank Project\Renderer.cpp(363,83): warning C4267: “参数”: 从“size_t”转换到“GLsizei”，可能丢失数据
-D:\CodeProject\CSC8502_Deckard\ShiluZhao_CSC8502_CourseWork\Blank Project\Renderer.cpp(487,82): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
-D:\CodeProject\CSC8502_Deckard\ShiluZhao_CSC8502_CourseWork\Blank Project\Renderer.cpp(487,53): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
-  BlankProject.vcxproj -> D:\CodeProject\CSC8502_Deckard\ShiluZhao_CSC8502_CourseWork\x64\Debug\CourseWork.exe
+C:\Users\decka\Projects\OpenGL_Island\nclgl\Keyboard.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“Renderer.cpp”)
+  
+C:\Users\decka\Projects\OpenGL_Island\Blank Project\Renderer.h(5,10): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+  (编译源文件“Renderer.cpp”)
+  
+C:\Users\decka\Projects\OpenGL_Island\Blank Project\Renderer.cpp(24,14): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\decka\Projects\OpenGL_Island\Blank Project\Renderer.cpp(27,19): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\decka\Projects\OpenGL_Island\Blank Project\Renderer.cpp(47,24): warning C4305: “参数”: 从“double”到“float”截断
+C:\Users\decka\Projects\OpenGL_Island\Blank Project\Renderer.cpp(47,18): warning C4305: “参数”: 从“double”到“float”截断
+C:\Users\decka\Projects\OpenGL_Island\Blank Project\Renderer.cpp(47,11): warning C4305: “参数”: 从“double”到“float”截断
+C:\Users\decka\Projects\OpenGL_Island\Blank Project\Renderer.cpp(125,19): warning C4305: “+=”: 从“double”到“float”截断
+C:\Users\decka\Projects\OpenGL_Island\Blank Project\Renderer.cpp(363,44): warning C4267: “参数”: 从“size_t”转换到“GLsizei”，可能丢失数据
+C:\Users\decka\Projects\OpenGL_Island\Blank Project\Renderer.cpp(487,82): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+C:\Users\decka\Projects\OpenGL_Island\Blank Project\Renderer.cpp(487,53): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+  Shadow.cpp
+C:\Users\decka\Projects\OpenGL_Island\nclgl\Keyboard.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“Shadow.cpp”)
+  
+C:\Users\decka\Projects\OpenGL_Island\Blank Project\Renderer.h(5,10): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+  (编译源文件“Shadow.cpp”)
+  
+  正在生成代码...
+  BlankProject.vcxproj -> C:\Users\decka\Projects\OpenGL_Island\x64\Debug\CourseWork.exe
